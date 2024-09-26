@@ -1,0 +1,29 @@
+.sales {
+    color: #ffffff;
+    background-color: #A98C64;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.discount {
+    display: flex;
+    flex-direction: row;
+    margin-right: 180px;
+}
+.discount img {
+    margin-right: 20px;
+}
+
+.order {
+    display: inline-block;
+    align-content: center;
+    color: #ffffff;
+    text-decoration-color: white;
+}
+.order img {
+    margin-left: 10px;
+}

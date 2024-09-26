@@ -1,0 +1,8 @@
+@import url('fonts/TT/stylesheet.css');
+
+body {
+  margin: 0;
+  font-family: "TT Norms Pro";
+  box-sizing: border-box;
+  background-color: #FAF6F2;
+}
