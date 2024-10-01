@@ -1,0 +1,25 @@
+.monday {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 38px;
+
+}
+
+
+.monday div {
+    max-width: 240px;
+}
+.monday h5 {
+    font-weight: 500;
+    font-size: 12px;
+    color: #A98C64;
+    text-align: start;
+}
+.monday p {
+    font-size: 16px;
+    color: #493E3E;
+    font-weight: 500;
+    text-align: left;
+}

@@ -1,0 +1,31 @@
+.but {
+    width: 300px;
+    height: 96px;
+    border-radius: 30px;
+    border: 2px #DFCCB7 solid;
+    background-color: transparent;
+    font-family: "TT Norms Pro";
+    cursor: pointer;
+    transition: 400ms linear;
+
+}
+.but:hover {
+    background-color: #E2DDC0;
+}
+.but-active {
+    background-color: #DFCCB7;
+}
+
+.but h4 {
+    color: #493E3E;
+    font-size: 24px;
+    margin-top: 16px;
+    margin-bottom: 5px;
+
+}
+.but span {
+    font-weight: 500;
+    font-size: 16px;
+    color: #493E3E;
+
+}

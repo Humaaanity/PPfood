@@ -4,6 +4,7 @@ import Header from "./components/Header/Header";
 import Main from "./components/Main__Page/Main";
 import Promo from './components/Promo/Promo'
 import Forma from './components/Forma/Forma'
+import Order from "./components/Order/Order";
 
 
 function App() {
@@ -15,9 +16,7 @@ function App() {
           <Main/>
           <Promo/>
           <Forma/>
-
-
-
+          <Order/>
       </div>
     </div>
   );

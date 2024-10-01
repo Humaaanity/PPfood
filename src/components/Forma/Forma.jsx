@@ -20,11 +20,8 @@ const Forma = () => {
             setPole(false)
             setActive(true)
         }
-        console.log(Results)
 
     }
-
-
 
     return (
         <div className='ff'>

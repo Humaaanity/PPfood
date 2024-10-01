@@ -50,6 +50,7 @@
     cursor: pointer;
     margin-right: 20px;
     transition: 300ms ease;
+    font-size: 16px;
 }
 
  .pitanie:hover {
@@ -66,7 +67,8 @@
     border: 1px #4D8F76 solid;
     border-radius: 40px;
     cursor: pointer;
-    transition: 300ms ease
+    transition: 300ms ease;
+    font-size: 16px;
 
 }
 
