@@ -32,6 +32,7 @@
     float: right;
     transform: translate(42px, -32px);
     cursor: pointer;
+    border: 0
 
 }
 
@@ -78,6 +79,7 @@
     height: 48px;
     border: 0;
     border-radius: 40px;
+    margin-bottom: 30px;
 
 }
 

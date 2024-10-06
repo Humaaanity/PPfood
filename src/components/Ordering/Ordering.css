@@ -88,5 +88,4 @@
 
 .ordering--exiting .ordering-content,
 .ordering--exited .ordering-content{
-    transform: translateY(-50px);
 }

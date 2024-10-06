@@ -8,7 +8,7 @@ const Ordering = ({regOpen, regClose}) => {
         <>
         <Transition in={regOpen} timeout={350} unmountOnExit={true}>
             {(state) => (
-        <div className={'ordering ordering--${state'}>
+        <div className={`ordering ordering--${state}`}>
             <div className="ordering-content" onClick={e => e.stopPropagation()}>
             <h3><img src={Cross} alt="" onClick={regClose}/>Оформление заказа</h3>
             <p>После отправки формы мы свяжемся с вами для уточнения всех деталей</p>

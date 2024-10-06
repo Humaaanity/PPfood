@@ -17,7 +17,7 @@ const Recal = ({isOpen, onClose}) => {
                          Заказ обратного звонка</h2>
                      <p>Введи номер телефона, на который необходимо перезвонить</p>
                      <InputMask onChange={(e) => setValue(e.target.value)} mask="+9 (999) 999 99 99" placeholder="Телефон" />
-                     <button>Перезвони мне</button>
+                     <button >Перезвони мне</button>
 
                  </div>
              </div>)}

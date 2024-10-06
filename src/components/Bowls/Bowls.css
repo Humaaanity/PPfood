@@ -1,0 +1,42 @@
+
+.slider {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 80px;
+}
+
+
+
+
+.splide-about {
+    margin-left: 110px;
+    max-width: 950px;
+}
+
+
+
+.splide-about h5 {
+    font-weight: 700;
+    font-size: 24px;
+    color: #4D8F76;
+    margin-bottom: 30px;
+    text-align: start;
+}
+
+
+.splide-about p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #493E3E;
+    text-align: start;
+    margin-bottom: 20px;
+}
+
+
+.splide {
+    max-width: 640px;
+    margin-right: 40px;
+
+}
